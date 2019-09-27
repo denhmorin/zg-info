@@ -9,7 +9,7 @@ Start app notes:
 5. Run app in browser as localhost.
 6. Login as administrator to see all functionality.
     username: admin
-    password: admin
+    password: foi
 
 
 Server side specification:
